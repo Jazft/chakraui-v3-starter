@@ -1,0 +1,4 @@
+.chakra-ui-light,
+.chakra-ui-dark, .chakra-theme {
+    transition: 0.3s all !important;
+}
