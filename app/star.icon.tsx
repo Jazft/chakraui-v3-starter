@@ -1,4 +1,4 @@
-export default function () {
+export default function StarIcon() {
     return (
         <>
             <svg xmlns="http://www.w3.org/2000/svg" fill="transparent" width={15} viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor" className="w-6 h-6">
