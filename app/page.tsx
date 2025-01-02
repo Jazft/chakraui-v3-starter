@@ -9,7 +9,7 @@ export default function App() {
             <Center minH='dvh' flexDirection={"column"} gap={2}>
 
                 <Text>Welcome to your starter</Text>
-                <Text fontWeight="semibold" textStyle="5xl">Hola</Text>
+                <Text fontWeight="semibold" textStyle="5xl">Next.js + ChakraUI V3</Text>
 
                 <Stack direction={'row'}>
 

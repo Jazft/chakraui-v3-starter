@@ -32,7 +32,7 @@ export function useColorModeValue<T>(light: T, dark: T) {
 
 export function ColorModeIcon() {
   const { colorMode } = useColorMode()
-  return colorMode === "light" ? <LuSun /> : <LuMoon />
+  return colorMode === "dark" ? <LuSun /> : <LuMoon />
 }
 
 
